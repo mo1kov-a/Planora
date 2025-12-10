@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo1kov-a/Planora.git"
+  },
+  "author": "mo1kov-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mo1kov-a/Planora/issues"
+  },
+  "homepage": "https://github.com/mo1kov-a/Planora#readme"
+}
